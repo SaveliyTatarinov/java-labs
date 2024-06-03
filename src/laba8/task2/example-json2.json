@@ -1,0 +1,16 @@
+{
+  "parking": [
+    {
+      "brand": "Toyota",
+      "color": "Красный",
+      "number": "A123ET",
+      "place": "A5"
+    },
+    {
+      "brand": "Mazda",
+      "color": "Серый",
+      "number": "T568CB",
+      "place": "B2"
+    }
+  ]
+}

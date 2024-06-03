@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parking>
+    <floor1>
+        <brand>Toyota</brand>
+        <color>Красный</color>
+        <number>A123ET</number>
+        <place>A5</place>
+    </floor1>
+    <floor2>
+        <brand>Mazda</brand>
+        <color>Серый</color>
+        <number>T568CB</number>
+        <place>B2</place>
+    </floor2>
+</parking>
